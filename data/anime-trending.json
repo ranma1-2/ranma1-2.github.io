@@ -1,0 +1,972 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "workbook": "RANMA - AnimeTrending.xlsx",
+    "sheet": "S1"
+  },
+  "categoryStartWeeks": {
+    "anime": 1,
+    "boys": 3,
+    "girls": 3,
+    "ships": 3
+  },
+  "seasons": [
+    {
+      "id": "s1",
+      "number": 1,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "incompleteWeeks": []
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "incompleteWeeks": [
+        11
+      ]
+    },
+    {
+      "id": "s3",
+      "number": 3,
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "incompleteWeeks": []
+    }
+  ],
+  "categories": [
+    "anime",
+    "boys",
+    "girls",
+    "ships"
+  ],
+  "entries": [
+    {
+      "id": "anime-ranma",
+      "category": "anime",
+      "name": "Ranma ½",
+      "positions": {
+        "s1": [
+          5,
+          4,
+          5,
+          6,
+          3,
+          7,
+          8,
+          2,
+          3,
+          6,
+          3
+        ],
+        "s2": [
+          5,
+          4,
+          5,
+          5,
+          5,
+          7,
+          7,
+          6,
+          7,
+          8,
+          8
+        ],
+        "s3": [
+          6,
+          2,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 4
+    },
+    {
+      "id": "boys-ranma-saotome",
+      "category": "boys",
+      "name": "Ranma Saotome",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          3,
+          1,
+          3,
+          5,
+          6,
+          3,
+          2,
+          2,
+          1
+        ],
+        "s2": [
+          null,
+          null,
+          4,
+          3,
+          6,
+          6,
+          4,
+          5,
+          8,
+          9,
+          6
+        ],
+        "s3": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 6
+    },
+    {
+      "id": "boys-ryoga-hibiki",
+      "category": "boys",
+      "name": "Ryoga Hibiki",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          7,
+          8,
+          8,
+          10,
+          12,
+          11,
+          13
+        ],
+        "s2": [
+          null,
+          null,
+          6,
+          null,
+          null,
+          10,
+          10,
+          12,
+          15,
+          11,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          3,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 7
+    },
+    {
+      "id": "boys-mousse",
+      "category": "boys",
+      "name": "Mousse",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          10,
+          12,
+          null,
+          null,
+          16,
+          null,
+          27,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 8
+    },
+    {
+      "id": "boys-tatewaki-kuno",
+      "category": "boys",
+      "name": "Tatewaki Kuno",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          21,
+          null,
+          23,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          18,
+          null,
+          17,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 9
+    },
+    {
+      "id": "boys-soun-tendo",
+      "category": "boys",
+      "name": "Soun Tendo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          24,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 10
+    },
+    {
+      "id": "girls-akane-tendo",
+      "category": "girls",
+      "name": "Akane Tendo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          2,
+          1,
+          2,
+          5,
+          2,
+          1,
+          5,
+          4,
+          1
+        ],
+        "s2": [
+          null,
+          null,
+          4,
+          1,
+          3,
+          8,
+          2,
+          5,
+          6,
+          9,
+          10
+        ],
+        "s3": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 12
+    },
+    {
+      "id": "girls-ranma",
+      "category": "girls",
+      "name": "Ranma",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          9,
+          5,
+          7,
+          11,
+          11,
+          8,
+          8,
+          5,
+          9
+        ],
+        "s2": [
+          null,
+          null,
+          6,
+          5,
+          8,
+          13,
+          5,
+          14,
+          15,
+          15,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          3,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 13
+    },
+    {
+      "id": "girls-shampoo",
+      "category": "girls",
+      "name": "Shampoo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          7,
+          6,
+          14
+        ],
+        "s2": [
+          null,
+          null,
+          9,
+          8,
+          14,
+          14,
+          11,
+          23,
+          23,
+          23,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          5,
+          5,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 14
+    },
+    {
+      "id": "girls-ukyo",
+      "category": "girls",
+      "name": "Ukyo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          18,
+          24,
+          22,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          13,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 15
+    },
+    {
+      "id": "girls-nabiki",
+      "category": "girls",
+      "name": "Nabiki",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          11,
+          21,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          28,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 16
+    },
+    {
+      "id": "girls-kasumi",
+      "category": "girls",
+      "name": "Kasumi",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          22,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 17
+    },
+    {
+      "id": "ships-ranma-x-akane",
+      "category": "ships",
+      "name": "Ranma x Akane",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          2,
+          1,
+          4,
+          5,
+          3,
+          3,
+          2,
+          3,
+          2
+        ],
+        "s2": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          4,
+          2,
+          4,
+          3,
+          4,
+          4
+        ],
+        "s3": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 19
+    },
+    {
+      "id": "ships-ranma-x-shampoo",
+      "category": "ships",
+      "name": "Ranma x Shampoo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          10,
+          9,
+          14
+        ],
+        "s2": [
+          null,
+          null,
+          3,
+          5,
+          12,
+          14,
+          17,
+          17,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          5,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 20
+    },
+    {
+      "id": "ships-ryoga-x-akane",
+      "category": "ships",
+      "name": "Ryoga x Akane",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          20,
+          20,
+          null,
+          null,
+          null,
+          19,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          16,
+          12,
+          13,
+          16,
+          19,
+          18,
+          15,
+          13,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          7,
+          10,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 21
+    },
+    {
+      "id": "ships-ranma-x-ukyo",
+      "category": "ships",
+      "name": "Ranma x Ukyo",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          19,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 22
+    },
+    {
+      "id": "ships-tofu-x-kasumi",
+      "category": "ships",
+      "name": "Tofu x Kasumi",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          17,
+          15,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 23
+    },
+    {
+      "id": "ships-tatewaki-x-ranma",
+      "category": "ships",
+      "name": "Tatewaki x Ranma",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          18,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 24
+    },
+    {
+      "id": "ships-ranma-x-kodachi",
+      "category": "ships",
+      "name": "Ranma x Kodachi",
+      "positions": {
+        "s1": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s2": [
+          null,
+          null,
+          19,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "s3": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "sourceRow": 25
+    }
+  ]
+}

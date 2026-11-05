@@ -1,0 +1,15 @@
+dist/
+node_modules/
+.preview/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store

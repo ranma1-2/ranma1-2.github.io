@@ -1,0 +1,46 @@
+.comparison-card{margin-top:22px}
+.comparison-art{background:#e9dfce}
+.comparison-symbol{font-family:Georgia,serif;font-size:48px;letter-spacing:-3px;border-block:2px solid var(--ink);padding:20px 12px;transform:rotate(-8deg)}
+.comparison-header{max-width:none;margin-bottom:20px}
+.comparison-header h1{font-family:Arial,Helvetica,sans-serif;font-size:30px;line-height:1.2;letter-spacing:-.6px;margin:0}
+.comparison-purpose{font-size:13px;margin:0 0 12px;max-width:900px}
+.comparison-legend{margin-bottom:18px;font-size:12px}
+.comparison-legend>summary{cursor:pointer;width:fit-content;text-decoration:underline;text-underline-offset:3px}
+.legend-content{display:grid;grid-template-columns:180px 1fr;gap:16px;padding:14px 0;max-width:850px}
+.season-legend{display:grid;align-content:start}
+.season-legend>span{padding:3px 8px;text-align:center}
+.importance-legend{margin:0;display:grid;gap:4px;align-content:start}
+.importance-legend>div{display:flex;gap:12px}
+.importance-legend dt{min-width:55px;font-weight:700}
+.importance-legend dd{margin:0}
+.legend-notes{grid-column:1/-1}
+.legend-notes p{margin:4px 0}
+.comparison-table-wrap{overflow-x:auto;border:1px solid #d5ded8}
+.comparison-table{width:100%;min-width:1000px;border-collapse:collapse;table-layout:fixed;font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.4;background:#fff;color:#1e3439}
+.comparison-table th,.comparison-table td{padding:6px 8px;vertical-align:middle;overflow-wrap:break-word}
+.comparison-table thead th{background:#346b57;color:white;text-align:left;font-weight:700;padding-block:9px;position:sticky;top:0;z-index:1}
+.comparison-table thead th:nth-child(1){width:4%}
+.comparison-table thead th:nth-child(2){width:25%}
+.comparison-table thead th:nth-child(3){width:11%;text-align:center}
+.comparison-table thead th:nth-child(4){width:9%;text-align:right}
+.comparison-table thead th:nth-child(5){width:15%;text-align:right}
+.comparison-table thead th:nth-child(6){width:13%;text-align:right}
+.comparison-table thead th:nth-child(7){width:23%}
+.comparison-table tbody tr:nth-child(even){background:#f5f7f8}
+.comparison-table tbody th{text-align:left;font-weight:400}
+.comparison-table .arc-id,.comparison-table .chapter-range,.comparison-table .adaptation-cell{text-align:right;font-variant-numeric:tabular-nums}
+.comparison-table .importance-cell{text-align:center}
+.comparison-table .has-importance{background:#ffd966}
+.comparison-table abbr{text-decoration:none;cursor:help;white-space:nowrap}
+.comparison-table .adaptation-cell{border-right:1px solid #d5ded8}
+.season-1{background:#b6d7a8;color:#183137}
+.season-2{background:#4a86e8;color:white}
+.season-3{background:#ff9900;color:#182b31}
+.season-4{background:#ea9999;color:#182b31}
+.season-5{background:#a64d79;color:white}
+.season-6{background:#f1c232;color:#182b31}
+.season-7{background:#e06666;color:#182b31}
+.season-special{background:#d0e0e3;color:#182b31}
+.translation-fallback{display:block;font-size:10px;color:var(--red);font-weight:400;margin-top:3px}
+.season-2 .translation-fallback,.season-5 .translation-fallback{color:white}
+@media(max-width:540px){.comparison-header h1{font-size:25px}.comparison-table{font-size:12px}.legend-content{grid-template-columns:130px 1fr;font-size:11px}.importance-legend>div{gap:5px}.importance-legend dt{min-width:45px}}

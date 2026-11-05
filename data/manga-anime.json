@@ -1,0 +1,9567 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "workbook": "Ranma ½ Arcs & Anime Adaptation.xlsx",
+    "sheets": [
+      "Adaptation Table",
+      "WIP In Deep"
+    ],
+    "restoredChapterRanges": [
+      {
+        "cell": "D4",
+        "restored": "1-2",
+        "numberFormat": "d-m"
+      },
+      {
+        "cell": "D5",
+        "restored": "3-9",
+        "numberFormat": "d-m"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "chapters-001-002",
+      "order": 1,
+      "arcNumber": 1,
+      "chapters": {
+        "from": 1,
+        "to": 2
+      },
+      "importance": [
+        "START"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "1"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "1"
+        }
+      },
+      "sourceRow": 4
+    },
+    {
+      "id": "chapters-003-009",
+      "order": 2,
+      "arcNumber": 2,
+      "chapters": {
+        "from": 3,
+        "to": 9
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 2,
+              "to": 6,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "2-6"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 2,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "2-3"
+        }
+      },
+      "sourceRow": 5
+    },
+    {
+      "id": "chapters-010-016",
+      "order": 3,
+      "arcNumber": 3,
+      "chapters": {
+        "from": 10,
+        "to": 16
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 7,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "7-10"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 4,
+              "to": 5,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "4-5"
+        }
+      },
+      "sourceRow": 6
+    },
+    {
+      "id": "chapters-017-022",
+      "order": 4,
+      "arcNumber": 4,
+      "chapters": {
+        "from": 17,
+        "to": 22
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 11,
+              "to": 13,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "11-13"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 6,
+              "to": 7,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "6-7"
+        }
+      },
+      "sourceRow": 7
+    },
+    {
+      "id": "chapters-023-030",
+      "order": 5,
+      "arcNumber": 5,
+      "chapters": {
+        "from": 23,
+        "to": 30
+      },
+      "importance": [
+        "Q"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 14,
+              "to": 16,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "14-16 (aired after ep27)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 8,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "8-10 (*)"
+        }
+      },
+      "sourceRow": 8
+    },
+    {
+      "id": "chapters-031-036",
+      "order": 6,
+      "arcNumber": 6,
+      "chapters": {
+        "from": 31,
+        "to": 36
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 20,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "18-20"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 10,
+              "to": 12,
+              "context": "adaptation"
+            }
+          ],
+          "season": 1,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "10-12"
+        }
+      },
+      "sourceRow": 9
+    },
+    {
+      "id": "chapters-037-040",
+      "order": 7,
+      "arcNumber": 7,
+      "chapters": {
+        "from": 37,
+        "to": 40
+      },
+      "importance": [
+        "NC",
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 23,
+              "to": 23,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "23 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 13,
+              "to": 13,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "13"
+        }
+      },
+      "sourceRow": 10
+    },
+    {
+      "id": "chapters-041-043",
+      "order": 8,
+      "arcNumber": 8,
+      "chapters": {
+        "from": 41,
+        "to": 43
+      },
+      "importance": [
+        "FM"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 24,
+              "to": 24,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 26,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "24, 26 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 14,
+              "to": 14,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "14"
+        }
+      },
+      "sourceRow": 11
+    },
+    {
+      "id": "chapters-044-045",
+      "order": 9,
+      "arcNumber": null,
+      "chapters": {
+        "from": 44,
+        "to": 45
+      },
+      "importance": [
+        "R"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 26,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "26 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 15,
+              "to": 15,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "15"
+        }
+      },
+      "sourceRow": 12
+    },
+    {
+      "id": "chapters-046-047",
+      "order": 10,
+      "arcNumber": null,
+      "chapters": {
+        "from": 46,
+        "to": 47
+      },
+      "importance": [
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 25,
+              "to": 25,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "25 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 15,
+              "to": 15,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "15"
+        }
+      },
+      "sourceRow": 13
+    },
+    {
+      "id": "chapters-048-050",
+      "order": 11,
+      "arcNumber": 9,
+      "chapters": {
+        "from": 48,
+        "to": 50
+      },
+      "importance": [
+        "R"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 27,
+              "to": 27,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "27 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 16,
+              "to": 16,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "16"
+        }
+      },
+      "sourceRow": 14
+    },
+    {
+      "id": "chapters-051-055",
+      "order": 12,
+      "arcNumber": 10,
+      "chapters": {
+        "from": 51,
+        "to": 55
+      },
+      "importance": [
+        "FM",
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 28,
+              "to": 29,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "28-29"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 25,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "25-26"
+        }
+      },
+      "sourceRow": 15
+    },
+    {
+      "id": "chapters-056-058",
+      "order": 13,
+      "arcNumber": 11,
+      "chapters": {
+        "from": 56,
+        "to": 58
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 93,
+              "to": 93,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 130,
+              "to": 130,
+              "context": "recontextualized"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "93, \"130\""
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 28,
+              "to": 28,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "28"
+        }
+      },
+      "sourceRow": 16
+    },
+    {
+      "id": "chapters-059-062",
+      "order": 14,
+      "arcNumber": 12,
+      "chapters": {
+        "from": 59,
+        "to": 62
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 22,
+              "to": 22,
+              "context": "inspired"
+            }
+          ],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "Inspired episode 22"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 17,
+              "to": 17,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "17"
+        }
+      },
+      "sourceRow": 17
+    },
+    {
+      "id": "chapters-063-064",
+      "order": 15,
+      "arcNumber": 13,
+      "chapters": {
+        "from": 63,
+        "to": 64
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 33,
+              "to": 33,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "33"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "18 (*)"
+        }
+      },
+      "sourceRow": 18
+    },
+    {
+      "id": "chapters-065-065",
+      "order": 16,
+      "arcNumber": null,
+      "chapters": {
+        "from": 65,
+        "to": 65
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 40,
+              "to": 40,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "40"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 19
+    },
+    {
+      "id": "chapters-066-066",
+      "order": 17,
+      "arcNumber": null,
+      "chapters": {
+        "from": 66,
+        "to": 66
+      },
+      "importance": [
+        "FM"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 76,
+              "to": 76,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "76"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "18 (*)"
+        }
+      },
+      "sourceRow": 20
+    },
+    {
+      "id": "chapters-067-069",
+      "order": 18,
+      "arcNumber": 14,
+      "chapters": {
+        "from": 67,
+        "to": 69
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 38,
+              "to": 38,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "38"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "18 (*)"
+        }
+      },
+      "sourceRow": 21
+    },
+    {
+      "id": "chapters-070-073",
+      "order": 19,
+      "arcNumber": 15,
+      "chapters": {
+        "from": 70,
+        "to": 73
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 30,
+              "to": 30,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "30 (*)"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 19,
+              "to": 19,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "19"
+        }
+      },
+      "sourceRow": 22
+    },
+    {
+      "id": "chapters-074-077",
+      "order": 20,
+      "arcNumber": 16,
+      "chapters": {
+        "from": 74,
+        "to": 77
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 39,
+              "to": 39,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "39"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 22,
+              "to": 22,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": true,
+          "hasDifferences": false,
+          "sourceLabel": "22"
+        }
+      },
+      "sourceRow": 23
+    },
+    {
+      "id": "chapters-078-080",
+      "order": 21,
+      "arcNumber": 17,
+      "chapters": {
+        "from": 78,
+        "to": 80
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 34,
+              "to": 34,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "34 (*)"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 24
+    },
+    {
+      "id": "chapters-081-084",
+      "order": 22,
+      "arcNumber": 18,
+      "chapters": {
+        "from": 81,
+        "to": 84
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 37,
+              "to": 37,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "37"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 29,
+              "to": 30,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "29-30"
+        }
+      },
+      "sourceRow": 25
+    },
+    {
+      "id": "chapters-085-087",
+      "order": 23,
+      "arcNumber": 19,
+      "chapters": {
+        "from": 85,
+        "to": 87
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 41,
+              "to": 41,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "41"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 20,
+              "to": 20,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "20"
+        }
+      },
+      "sourceRow": 26
+    },
+    {
+      "id": "chapters-088-091",
+      "order": 24,
+      "arcNumber": 20,
+      "chapters": {
+        "from": 88,
+        "to": 91
+      },
+      "importance": [
+        "FM"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 42,
+              "to": 42,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "42"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 21,
+              "to": 21,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "21"
+        }
+      },
+      "sourceRow": 27
+    },
+    {
+      "id": "chapters-092-094",
+      "order": 25,
+      "arcNumber": 21,
+      "chapters": {
+        "from": 92,
+        "to": 94
+      },
+      "importance": [
+        "FM"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 53,
+              "to": 53,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 55,
+              "to": 55,
+              "context": "recontextualized"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "53, \"55\""
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 27,
+              "to": 27,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "27"
+        }
+      },
+      "sourceRow": 28
+    },
+    {
+      "id": "chapters-095-099",
+      "order": 26,
+      "arcNumber": 22,
+      "chapters": {
+        "from": 95,
+        "to": 99
+      },
+      "importance": [
+        "R"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 31,
+              "to": 32,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "31-32"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 23,
+              "to": 24,
+              "context": "adaptation"
+            }
+          ],
+          "season": 2,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "23-24"
+        }
+      },
+      "sourceRow": 29
+    },
+    {
+      "id": "chapters-100-102",
+      "order": 27,
+      "arcNumber": 23,
+      "chapters": {
+        "from": 100,
+        "to": 102
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 45,
+              "to": 45,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "45"
+        },
+        "2024": {
+          "references": [],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 30
+    },
+    {
+      "id": "chapters-103-105",
+      "order": 28,
+      "arcNumber": 24,
+      "chapters": {
+        "from": 103,
+        "to": 105
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 31
+    },
+    {
+      "id": "chapters-106-108",
+      "order": 29,
+      "arcNumber": 25,
+      "chapters": {
+        "from": 106,
+        "to": 108
+      },
+      "importance": [
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 44,
+              "to": 44,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "44"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 32
+    },
+    {
+      "id": "chapters-109-110",
+      "order": 30,
+      "arcNumber": 26,
+      "chapters": {
+        "from": 109,
+        "to": 110
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 43,
+              "to": 43,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "43"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 33
+    },
+    {
+      "id": "chapters-111-113",
+      "order": 31,
+      "arcNumber": 27,
+      "chapters": {
+        "from": 111,
+        "to": 113
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 47,
+              "to": 47,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "47"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 34
+    },
+    {
+      "id": "chapters-114-119",
+      "order": 32,
+      "arcNumber": 28,
+      "chapters": {
+        "from": 114,
+        "to": 119
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 64,
+              "to": 64,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "64 except c. 119 (*)"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 35
+    },
+    {
+      "id": "chapters-120-124",
+      "order": 33,
+      "arcNumber": 29,
+      "chapters": {
+        "from": 120,
+        "to": 124
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 61,
+              "to": 61,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "61"
+        },
+        "2024": {
+          "references": [],
+          "season": 3,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 36
+    },
+    {
+      "id": "chapters-125-136",
+      "order": 34,
+      "arcNumber": 30,
+      "chapters": {
+        "from": 125,
+        "to": 136
+      },
+      "importance": [
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 66,
+              "to": 68,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "66-68"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 37
+    },
+    {
+      "id": "chapters-137-138",
+      "order": 35,
+      "arcNumber": 31,
+      "chapters": {
+        "from": 137,
+        "to": 138
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 72,
+              "to": 72,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "72"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 38
+    },
+    {
+      "id": "chapters-139-140",
+      "order": 36,
+      "arcNumber": 32,
+      "chapters": {
+        "from": 139,
+        "to": 140
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 107,
+              "to": 107,
+              "context": "adaptation"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "107"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 39
+    },
+    {
+      "id": "chapters-141-141",
+      "order": 37,
+      "arcNumber": 33,
+      "chapters": {
+        "from": 141,
+        "to": 141
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 75,
+              "to": 75,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "75"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 40
+    },
+    {
+      "id": "chapters-142-145",
+      "order": 38,
+      "arcNumber": 34,
+      "chapters": {
+        "from": 142,
+        "to": 145
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 79,
+              "to": 80,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "79-80"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 41
+    },
+    {
+      "id": "chapters-146-146",
+      "order": 39,
+      "arcNumber": 35,
+      "chapters": {
+        "from": 146,
+        "to": 146
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 42
+    },
+    {
+      "id": "chapters-147-149",
+      "order": 40,
+      "arcNumber": 36,
+      "chapters": {
+        "from": 147,
+        "to": 149
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 82,
+              "to": 82,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "82"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 43
+    },
+    {
+      "id": "chapters-150-153",
+      "order": 41,
+      "arcNumber": 37,
+      "chapters": {
+        "from": 150,
+        "to": 153
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 85,
+              "to": 85,
+              "context": "adaptation"
+            }
+          ],
+          "season": 4,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "85"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 44
+    },
+    {
+      "id": "chapters-154-157",
+      "order": 42,
+      "arcNumber": 38,
+      "chapters": {
+        "from": 154,
+        "to": 157
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 88,
+              "to": 89,
+              "context": "adaptation"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "88-89"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 45
+    },
+    {
+      "id": "chapters-158-164",
+      "order": 43,
+      "arcNumber": 39,
+      "chapters": {
+        "from": 158,
+        "to": 164
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 95,
+              "to": 95,
+              "context": "adaptation"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "95 with lot of skips"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 46
+    },
+    {
+      "id": "chapters-165-172",
+      "order": 44,
+      "arcNumber": 40,
+      "chapters": {
+        "from": 165,
+        "to": 172
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 105,
+              "to": 106,
+              "context": "adaptation"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "105-106"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 47
+    },
+    {
+      "id": "chapters-173-178",
+      "order": 45,
+      "arcNumber": 41,
+      "chapters": {
+        "from": 173,
+        "to": 178
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 110,
+              "to": 110,
+              "context": "adaptation"
+            }
+          ],
+          "season": 5,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "110 with some skips"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 48
+    },
+    {
+      "id": "chapters-179-179",
+      "order": 46,
+      "arcNumber": 42,
+      "chapters": {
+        "from": 179,
+        "to": 179
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 125,
+              "to": 125,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "125"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 49
+    },
+    {
+      "id": "chapters-180-190",
+      "order": 47,
+      "arcNumber": 43,
+      "chapters": {
+        "from": 180,
+        "to": 190
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 121,
+              "to": 122,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "121-122 (*)"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 50
+    },
+    {
+      "id": "chapters-191-193",
+      "order": 48,
+      "arcNumber": 44,
+      "chapters": {
+        "from": 191,
+        "to": 193
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 126,
+              "to": 126,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "126"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 51
+    },
+    {
+      "id": "chapters-194-198",
+      "order": 49,
+      "arcNumber": 45,
+      "chapters": {
+        "from": 194,
+        "to": 198
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 128,
+              "to": 129,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "128-129"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 52
+    },
+    {
+      "id": "chapters-199-199",
+      "order": 50,
+      "arcNumber": 46,
+      "chapters": {
+        "from": 199,
+        "to": 199
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 132,
+              "to": 132,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "132"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 53
+    },
+    {
+      "id": "chapters-200-200",
+      "order": 51,
+      "arcNumber": 47,
+      "chapters": {
+        "from": 200,
+        "to": 200
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 133,
+              "to": 133,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "133"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 54
+    },
+    {
+      "id": "chapters-201-201",
+      "order": 52,
+      "arcNumber": 48,
+      "chapters": {
+        "from": 201,
+        "to": 201
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 136,
+              "to": 136,
+              "context": "adaptation"
+            }
+          ],
+          "season": 6,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "136"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 55
+    },
+    {
+      "id": "chapters-202-207",
+      "order": 53,
+      "arcNumber": 49,
+      "chapters": {
+        "from": 202,
+        "to": 207
+      },
+      "importance": [
+        "NT"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 141,
+              "to": 142,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "141-142"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 56
+    },
+    {
+      "id": "chapters-208-209",
+      "order": 54,
+      "arcNumber": 50,
+      "chapters": {
+        "from": 208,
+        "to": 209
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 143,
+              "to": 143,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "143"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 57
+    },
+    {
+      "id": "chapters-210-210",
+      "order": 55,
+      "arcNumber": 51,
+      "chapters": {
+        "from": 210,
+        "to": 210
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 144,
+              "to": 144,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "144"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 58
+    },
+    {
+      "id": "chapters-211-212",
+      "order": 56,
+      "arcNumber": 52,
+      "chapters": {
+        "from": 211,
+        "to": 212
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 151,
+              "to": 151,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "151"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 59
+    },
+    {
+      "id": "chapters-213-215",
+      "order": 57,
+      "arcNumber": 53,
+      "chapters": {
+        "from": 213,
+        "to": 215
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 146,
+              "to": 146,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "146"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 60
+    },
+    {
+      "id": "chapters-216-218",
+      "order": 58,
+      "arcNumber": 54,
+      "chapters": {
+        "from": 216,
+        "to": 218
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 149,
+              "to": 149,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "149"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 61
+    },
+    {
+      "id": "chapters-219-224",
+      "order": 59,
+      "arcNumber": 55,
+      "chapters": {
+        "from": 219,
+        "to": 224
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 154,
+              "to": 155,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "154-155"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 62
+    },
+    {
+      "id": "chapters-225-229",
+      "order": 60,
+      "arcNumber": 56,
+      "chapters": {
+        "from": 225,
+        "to": 229
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 160,
+              "to": 161,
+              "context": "adaptation"
+            }
+          ],
+          "season": 7,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "160-161"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 63
+    },
+    {
+      "id": "chapters-230-233",
+      "order": 61,
+      "arcNumber": 57,
+      "chapters": {
+        "from": 230,
+        "to": 233
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OVA 1"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 64
+    },
+    {
+      "id": "chapters-234-234",
+      "order": 62,
+      "arcNumber": 58,
+      "chapters": {
+        "from": 234,
+        "to": 234
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 65
+    },
+    {
+      "id": "chapters-235-238",
+      "order": 63,
+      "arcNumber": 59,
+      "chapters": {
+        "from": 235,
+        "to": 238
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 66
+    },
+    {
+      "id": "chapters-239-240",
+      "order": 64,
+      "arcNumber": 60,
+      "chapters": {
+        "from": 239,
+        "to": 240
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 67
+    },
+    {
+      "id": "chapters-241-241",
+      "order": 65,
+      "arcNumber": 61,
+      "chapters": {
+        "from": 241,
+        "to": 241
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OVA 3"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 68
+    },
+    {
+      "id": "chapters-242-244",
+      "order": 66,
+      "arcNumber": 62,
+      "chapters": {
+        "from": 242,
+        "to": 244
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 69
+    },
+    {
+      "id": "chapters-245-245",
+      "order": 67,
+      "arcNumber": 63,
+      "chapters": {
+        "from": 245,
+        "to": 245
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 70
+    },
+    {
+      "id": "chapters-246-258",
+      "order": 68,
+      "arcNumber": 64,
+      "chapters": {
+        "from": 246,
+        "to": 258
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 71
+    },
+    {
+      "id": "chapters-259-264",
+      "order": 69,
+      "arcNumber": 65,
+      "chapters": {
+        "from": 259,
+        "to": 264
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "OVA 4 with some differences"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 72
+    },
+    {
+      "id": "chapters-265-278",
+      "order": 70,
+      "arcNumber": 66,
+      "chapters": {
+        "from": 265,
+        "to": 278
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 7,
+              "to": 8,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": true,
+          "sourceLabel": "OVA 7-8 with some differences"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 73
+    },
+    {
+      "id": "chapters-279-281",
+      "order": 71,
+      "arcNumber": 67,
+      "chapters": {
+        "from": 279,
+        "to": 281
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 74
+    },
+    {
+      "id": "chapters-282-284",
+      "order": 72,
+      "arcNumber": 68,
+      "chapters": {
+        "from": 282,
+        "to": 284
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 75
+    },
+    {
+      "id": "chapters-285-286",
+      "order": 73,
+      "arcNumber": 69,
+      "chapters": {
+        "from": 285,
+        "to": 286
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 76
+    },
+    {
+      "id": "chapters-287-288",
+      "order": 74,
+      "arcNumber": 70,
+      "chapters": {
+        "from": 287,
+        "to": 288
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 9,
+              "to": 9,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OVA 9"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 77
+    },
+    {
+      "id": "chapters-289-289",
+      "order": 75,
+      "arcNumber": 71,
+      "chapters": {
+        "from": 289,
+        "to": 289
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 78
+    },
+    {
+      "id": "chapters-290-299",
+      "order": 76,
+      "arcNumber": 72,
+      "chapters": {
+        "from": 290,
+        "to": 299
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 79
+    },
+    {
+      "id": "chapters-300-300",
+      "order": 77,
+      "arcNumber": 73,
+      "chapters": {
+        "from": 300,
+        "to": 300
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 80
+    },
+    {
+      "id": "chapters-301-302",
+      "order": 78,
+      "arcNumber": 74,
+      "chapters": {
+        "from": 301,
+        "to": 302
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "movie",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "Movie 3"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 81
+    },
+    {
+      "id": "chapters-303-307",
+      "order": 79,
+      "arcNumber": 75,
+      "chapters": {
+        "from": 303,
+        "to": 307
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 82
+    },
+    {
+      "id": "chapters-308-308",
+      "order": 80,
+      "arcNumber": 76,
+      "chapters": {
+        "from": 308,
+        "to": 308
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 10,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OVA 10"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 83
+    },
+    {
+      "id": "chapters-309-311",
+      "order": 81,
+      "arcNumber": 77,
+      "chapters": {
+        "from": 309,
+        "to": 311
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 84
+    },
+    {
+      "id": "chapters-312-314",
+      "order": 82,
+      "arcNumber": 78,
+      "chapters": {
+        "from": 312,
+        "to": 314
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 85
+    },
+    {
+      "id": "chapters-315-315",
+      "order": 83,
+      "arcNumber": 79,
+      "chapters": {
+        "from": 315,
+        "to": 315
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 86
+    },
+    {
+      "id": "chapters-316-317",
+      "order": 84,
+      "arcNumber": 80,
+      "chapters": {
+        "from": 316,
+        "to": 317
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 87
+    },
+    {
+      "id": "chapters-318-318",
+      "order": 85,
+      "arcNumber": 81,
+      "chapters": {
+        "from": 318,
+        "to": 318
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 88
+    },
+    {
+      "id": "chapters-319-321",
+      "order": 86,
+      "arcNumber": 82,
+      "chapters": {
+        "from": 319,
+        "to": 321
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 89
+    },
+    {
+      "id": "chapters-322-322",
+      "order": 87,
+      "arcNumber": 83,
+      "chapters": {
+        "from": 322,
+        "to": 322
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 90
+    },
+    {
+      "id": "chapters-323-325",
+      "order": 88,
+      "arcNumber": 84,
+      "chapters": {
+        "from": 323,
+        "to": 325
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 91
+    },
+    {
+      "id": "chapters-326-327",
+      "order": 89,
+      "arcNumber": 85,
+      "chapters": {
+        "from": 326,
+        "to": 327
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 92
+    },
+    {
+      "id": "chapters-328-328",
+      "order": 90,
+      "arcNumber": 86,
+      "chapters": {
+        "from": 328,
+        "to": 328
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 93
+    },
+    {
+      "id": "chapters-329-329",
+      "order": 91,
+      "arcNumber": 87,
+      "chapters": {
+        "from": 329,
+        "to": 329
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 94
+    },
+    {
+      "id": "chapters-330-330",
+      "order": 92,
+      "arcNumber": 88,
+      "chapters": {
+        "from": 330,
+        "to": 330
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 95
+    },
+    {
+      "id": "chapters-331-332",
+      "order": 93,
+      "arcNumber": 89,
+      "chapters": {
+        "from": 331,
+        "to": 332
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 11,
+              "to": 11,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OAV 11"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 96
+    },
+    {
+      "id": "chapters-333-333",
+      "order": 94,
+      "arcNumber": 90,
+      "chapters": {
+        "from": 333,
+        "to": 333
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 97
+    },
+    {
+      "id": "chapters-334-338",
+      "order": 95,
+      "arcNumber": 91,
+      "chapters": {
+        "from": 334,
+        "to": 338
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 98
+    },
+    {
+      "id": "chapters-339-340",
+      "order": 96,
+      "arcNumber": 92,
+      "chapters": {
+        "from": 339,
+        "to": 340
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 99
+    },
+    {
+      "id": "chapters-341-344",
+      "order": 97,
+      "arcNumber": 93,
+      "chapters": {
+        "from": 341,
+        "to": 344
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 100
+    },
+    {
+      "id": "chapters-345-345",
+      "order": 98,
+      "arcNumber": 94,
+      "chapters": {
+        "from": 345,
+        "to": 345
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 101
+    },
+    {
+      "id": "chapters-346-346",
+      "order": 99,
+      "arcNumber": 95,
+      "chapters": {
+        "from": 346,
+        "to": 346
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 102
+    },
+    {
+      "id": "chapters-347-349",
+      "order": 100,
+      "arcNumber": 96,
+      "chapters": {
+        "from": 347,
+        "to": 349
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 103
+    },
+    {
+      "id": "chapters-350-351",
+      "order": 101,
+      "arcNumber": 97,
+      "chapters": {
+        "from": 350,
+        "to": 351
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 104
+    },
+    {
+      "id": "chapters-352-352",
+      "order": 102,
+      "arcNumber": 98,
+      "chapters": {
+        "from": 352,
+        "to": 352
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 105
+    },
+    {
+      "id": "chapters-353-353",
+      "order": 103,
+      "arcNumber": 99,
+      "chapters": {
+        "from": 353,
+        "to": 353
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 106
+    },
+    {
+      "id": "chapters-354-355",
+      "order": 104,
+      "arcNumber": 100,
+      "chapters": {
+        "from": 354,
+        "to": 355
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 107
+    },
+    {
+      "id": "chapters-356-356",
+      "order": 105,
+      "arcNumber": 101,
+      "chapters": {
+        "from": 356,
+        "to": 356
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 108
+    },
+    {
+      "id": "chapters-357-357",
+      "order": 106,
+      "arcNumber": 102,
+      "chapters": {
+        "from": 357,
+        "to": 357
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 109
+    },
+    {
+      "id": "chapters-358-359",
+      "order": 107,
+      "arcNumber": 103,
+      "chapters": {
+        "from": 358,
+        "to": 359
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 110
+    },
+    {
+      "id": "chapters-360-364",
+      "order": 108,
+      "arcNumber": 104,
+      "chapters": {
+        "from": 360,
+        "to": 364
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 111
+    },
+    {
+      "id": "chapters-365-365",
+      "order": 109,
+      "arcNumber": 105,
+      "chapters": {
+        "from": 365,
+        "to": 365
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 12,
+              "to": 12,
+              "context": "adaptation"
+            }
+          ],
+          "season": "special",
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": "OVA 12"
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 112
+    },
+    {
+      "id": "chapters-366-366",
+      "order": 110,
+      "arcNumber": 106,
+      "chapters": {
+        "from": 366,
+        "to": 366
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 113
+    },
+    {
+      "id": "chapters-367-370",
+      "order": 111,
+      "arcNumber": 107,
+      "chapters": {
+        "from": 367,
+        "to": 370
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 114
+    },
+    {
+      "id": "chapters-371-371",
+      "order": 112,
+      "arcNumber": 108,
+      "chapters": {
+        "from": 371,
+        "to": 371
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 115
+    },
+    {
+      "id": "chapters-372-376",
+      "order": 113,
+      "arcNumber": 109,
+      "chapters": {
+        "from": 372,
+        "to": 376
+      },
+      "importance": [
+        "NC"
+      ],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 116
+    },
+    {
+      "id": "chapters-377-377",
+      "order": 114,
+      "arcNumber": 110,
+      "chapters": {
+        "from": 377,
+        "to": 377
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 117
+    },
+    {
+      "id": "chapters-378-378",
+      "order": 115,
+      "arcNumber": 111,
+      "chapters": {
+        "from": 378,
+        "to": 378
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 118
+    },
+    {
+      "id": "chapters-379-379",
+      "order": 116,
+      "arcNumber": 112,
+      "chapters": {
+        "from": 379,
+        "to": 379
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 119
+    },
+    {
+      "id": "chapters-380-384",
+      "order": 117,
+      "arcNumber": 113,
+      "chapters": {
+        "from": 380,
+        "to": 384
+      },
+      "importance": [
+        "R"
+      ],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 120
+    },
+    {
+      "id": "chapters-385-387",
+      "order": 118,
+      "arcNumber": 114,
+      "chapters": {
+        "from": 385,
+        "to": 387
+      },
+      "importance": [
+        "R"
+      ],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 121
+    },
+    {
+      "id": "chapters-388-388",
+      "order": 119,
+      "arcNumber": 115,
+      "chapters": {
+        "from": 388,
+        "to": 388
+      },
+      "importance": [],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 122
+    },
+    {
+      "id": "chapters-389-407",
+      "order": 120,
+      "arcNumber": 116,
+      "chapters": {
+        "from": 389,
+        "to": 407
+      },
+      "importance": [
+        "ENDING"
+      ],
+      "anime": {
+        "1989": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        },
+        "2024": {
+          "references": [],
+          "season": null,
+          "prediction": false,
+          "hasDifferences": false,
+          "sourceLabel": ""
+        }
+      },
+      "sourceRow": 123
+    }
+  ],
+  "chapterDetails": [
+    {
+      "chapter": 1,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 2,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 3,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 2,
+              "to": 2,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 2,
+              "to": 2,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 4,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 2,
+              "to": 2,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 5,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 6,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 7,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 5,
+              "to": 5,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 8,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 5,
+              "to": 5,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 9,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 6,
+              "to": 6,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 10,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 7,
+              "to": 7,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 11,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 7,
+              "to": 7,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 8,
+              "to": 8,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 12,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 8,
+              "to": 8,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 13,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 8,
+              "to": 8,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 9,
+              "to": 9,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 5,
+              "to": 5,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 14,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 9,
+              "to": 9,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 5,
+              "to": 5,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 15,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 16,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 10,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "16-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 17,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 11,
+              "to": 11,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 6,
+              "to": 6,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 18,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 19,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 12,
+              "to": 12,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 20,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 7,
+              "to": 7,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 21,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 13,
+              "to": 13,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 22,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 23,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 14,
+              "to": 14,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "23-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 8,
+              "to": 8,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 24,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 25,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 15,
+              "to": 15,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 26,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 9,
+              "to": 9,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 27,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 16,
+              "to": 16,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 28,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 29,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "29-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 10,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "29-2024"
+        }
+      }
+    },
+    {
+      "chapter": 30,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 31,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 32,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 11,
+              "to": 11,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 33,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 19,
+              "to": 19,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 34,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 12,
+              "to": 12,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 35,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 20,
+              "to": 20,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 36,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 37,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 23,
+              "to": 23,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "37-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 13,
+              "to": 13,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 38,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 39,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 40,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 41,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 24,
+              "to": 24,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 14,
+              "to": 14,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 42,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "42-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 43,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 24,
+              "to": 24,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 26,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 44,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 26,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 15,
+              "to": 15,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 45,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 46,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 25,
+              "to": 25,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 47,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 48,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 27,
+              "to": 27,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "48-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 16,
+              "to": 16,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 49,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 50,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 51,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 28,
+              "to": 28,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 25,
+              "to": 25,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "51-2024"
+        }
+      }
+    },
+    {
+      "chapter": 52,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 53,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 29,
+              "to": 29,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 26,
+              "to": 26,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 54,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 55,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 56,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 93,
+              "to": 93,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "56-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 28,
+              "to": 28,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 57,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 58,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 93,
+              "to": 93,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 130,
+              "to": 130,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "58-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 59,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "59-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 17,
+              "to": 17,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 60,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 61,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 62,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 63,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 33,
+              "to": 33,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 64,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [],
+          "noteId": "64-2024"
+        }
+      }
+    },
+    {
+      "chapter": 65,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 40,
+              "to": 40,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "65-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 66,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 76,
+              "to": 76,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "66-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 18,
+              "to": 18,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 67,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 38,
+              "to": 38,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [],
+          "noteId": "67-2024"
+        }
+      }
+    },
+    {
+      "chapter": 68,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 69,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 70,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 30,
+              "to": 30,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "70-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 19,
+              "to": 19,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 71,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 72,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "72-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 73,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "73-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 74,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 39,
+              "to": 39,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 22,
+              "to": 22,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 75,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 76,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 77,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 78,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 34,
+              "to": 34,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 79,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 80,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "80-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 81,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 37,
+              "to": 37,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 29,
+              "to": 29,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "81-2024"
+        }
+      }
+    },
+    {
+      "chapter": 82,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [],
+          "noteId": "82-2024"
+        }
+      }
+    },
+    {
+      "chapter": 83,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 30,
+              "to": 30,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 84,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "84-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 85,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 41,
+              "to": 41,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 20,
+              "to": 20,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 86,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 87,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 88,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 42,
+              "to": 42,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 21,
+              "to": 21,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 89,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "89-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 90,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 91,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [],
+          "noteId": "91-2024"
+        }
+      }
+    },
+    {
+      "chapter": 92,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 53,
+              "to": 53,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 55,
+              "to": 55,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "92-1989"
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 27,
+              "to": 27,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 93,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 53,
+              "to": 53,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 94,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 95,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 31,
+              "to": 31,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 23,
+              "to": 23,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "95-2024"
+        }
+      }
+    },
+    {
+      "chapter": 96,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 97,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 31,
+              "to": 31,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 32,
+              "to": 32,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 98,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 32,
+              "to": 32,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 24,
+              "to": 24,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 99,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 100,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 45,
+              "to": 45,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 31,
+              "to": 31,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 101,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 102,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 103,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 32,
+              "to": 32,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 104,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 105,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 106,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 44,
+              "to": 44,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "106-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 107,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 108,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 109,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 43,
+              "to": 43,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 110,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 111,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 47,
+              "to": 47,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 112,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 113,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 114,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 64,
+              "to": 64,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "114-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 115,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 116,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "116-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 117,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 118,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 119,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 120,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 61,
+              "to": 61,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 33,
+              "to": 33,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 34,
+              "to": 34,
+              "context": "adaptation"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "chapter": 121,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 122,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 123,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 124,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 125,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 66,
+              "to": 66,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 126,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 127,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 128,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 67,
+              "to": 67,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 129,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 130,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 131,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 132,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 68,
+              "to": 68,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 133,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 134,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 135,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 136,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 137,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 72,
+              "to": 72,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 138,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 139,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 107,
+              "to": 107,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "139-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 140,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 141,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 75,
+              "to": 75,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "141-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 142,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 79,
+              "to": 79,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 143,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 144,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 80,
+              "to": 80,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 145,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 146,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 147,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 82,
+              "to": 82,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 148,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 149,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 150,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 85,
+              "to": 85,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 151,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 152,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 153,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 154,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 88,
+              "to": 88,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 155,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 156,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 89,
+              "to": 89,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 157,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 158,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 95,
+              "to": 95,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 159,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 160,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "160-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 161,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 162,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 163,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "163-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 164,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 95,
+              "to": 95,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "164-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 165,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 105,
+              "to": 105,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 166,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 167,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 168,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 169,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 106,
+              "to": 106,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 170,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 171,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 172,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 173,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 110,
+              "to": 110,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 174,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "174-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 175,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 176,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "176-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 177,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 178,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 179,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 125,
+              "to": 125,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "179-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 180,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 121,
+              "to": 121,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "180-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 181,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "181-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 182,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "182-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 183,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 184,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 122,
+              "to": 122,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 185,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 186,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 187,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 188,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "188-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 189,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 190,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 122,
+              "to": 122,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 191,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 126,
+              "to": 126,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "191-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 192,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 193,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 194,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 128,
+              "to": 128,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 195,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 196,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 197,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 129,
+              "to": 129,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 198,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 199,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 132,
+              "to": 132,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "199-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 200,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 133,
+              "to": 133,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "200-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 201,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 136,
+              "to": 136,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "201-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 202,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 141,
+              "to": 141,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 203,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 204,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 141,
+              "to": 141,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 142,
+              "to": 142,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "204-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 205,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 142,
+              "to": 142,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 206,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 207,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 208,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 143,
+              "to": 143,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 209,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 210,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 144,
+              "to": 144,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "210-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 211,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 151,
+              "to": 151,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 212,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 213,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 146,
+              "to": 146,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 214,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 215,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 216,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 149,
+              "to": 149,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 217,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 218,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 219,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 154,
+              "to": 154,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 220,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 221,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 155,
+              "to": 155,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 222,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 223,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "223-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 224,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 225,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 160,
+              "to": 160,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 226,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 227,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 160,
+              "to": 160,
+              "context": "adaptation"
+            },
+            {
+              "kind": "episode",
+              "from": 161,
+              "to": 161,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 228,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "episode",
+              "from": 161,
+              "to": 161,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 229,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "229-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 230,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 1,
+              "to": 1,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 231,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 232,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 233,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 234,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 235,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 236,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 237,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 238,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 239,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 240,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 241,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 242,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 243,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 244,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 245,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 246,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 247,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 248,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 249,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 250,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 251,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 252,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 253,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 254,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 255,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 256,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 257,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 258,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 259,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 4,
+              "to": 4,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "259-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 260,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "260-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 261,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 262,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "262-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 263,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "263-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 264,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 265,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 7,
+              "to": 7,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "265-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 266,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 267,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 268,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 269,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 270,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 8,
+              "to": 8,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "270-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 271,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "271-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 272,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "272-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 273,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 274,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 275,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "275-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 276,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "276-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 277,
+      "anime": {
+        "1989": {
+          "references": [],
+          "noteId": "277-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 278,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 279,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 280,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 281,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 282,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 283,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 284,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 285,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 286,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 287,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 9,
+              "to": 9,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "287-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 288,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 289,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 290,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 291,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 292,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 293,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 294,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 295,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 296,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 297,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 298,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 299,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 300,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 301,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "movie",
+              "from": 3,
+              "to": 3,
+              "context": "adaptation"
+            }
+          ]
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 302,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 303,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 304,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 305,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 306,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 307,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 308,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 10,
+              "to": 10,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "308-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 309,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 310,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 311,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 312,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 313,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 314,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 315,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 316,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 317,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 318,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 319,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 320,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 321,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 322,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 323,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 324,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 325,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 326,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 327,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 328,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 329,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 330,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 331,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 11,
+              "to": 11,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "331-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 332,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 333,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 334,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 335,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 336,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 337,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 338,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 339,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 340,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 341,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 342,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 343,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 344,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 345,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 346,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 347,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 348,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 349,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 350,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 351,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 352,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 353,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 354,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 355,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 356,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 357,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 358,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 359,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 360,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 361,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 362,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 363,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 364,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 365,
+      "anime": {
+        "1989": {
+          "references": [
+            {
+              "kind": "ova",
+              "from": 12,
+              "to": 12,
+              "context": "adaptation"
+            }
+          ],
+          "noteId": "365-1989"
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 366,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 367,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 368,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 369,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 370,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 371,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 372,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 373,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 374,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 375,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 376,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 377,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 378,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 379,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 380,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 381,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 382,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 383,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 384,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 385,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 386,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 387,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 388,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 389,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 390,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 391,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 392,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 393,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 394,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 395,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 396,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 397,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 398,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 399,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 400,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 401,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 402,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 403,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 404,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 405,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 406,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    },
+    {
+      "chapter": 407,
+      "anime": {
+        "1989": {
+          "references": []
+        },
+        "2024": {
+          "references": []
+        }
+      }
+    }
+  ]
+}
