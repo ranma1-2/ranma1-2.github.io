@@ -1,5 +1,7 @@
 # Ranma ½ Index
 
+**[Visit the site](https://ranma1-2.github.io/)**
+
 An independent collection of Ranma ½ content and resources, including a support
 guide, a manga–anime comparison and an archive of Anime Trending poll results.
 
