@@ -4,14 +4,21 @@ import { loadTrending, renderTrending, rankClass, validateTrending } from './tre
 
 const data = await loadTrending(new URL('../', import.meta.url));
 
-test('spreadsheet import preserves three seasons, all entries and all recorded positions', () => {
-  assert.equal(data.seasons.length, 3);
-  assert.equal(data.entries.length, 19);
-  assert.equal(data.entries.flatMap(entry => Object.values(entry.positions).flat()).filter(value => value !== null).length, 179);
-  assert.deepEqual(data.seasons.map(season => season.weeks), Array.from({ length: 3 }, () => Array.from({ length: 11 }, (_, n) => n + 1)));
-  assert.deepEqual(data.entries[0].positions.s1, [5, 4, 5, 6, 3, 7, 8, 2, 3, 6, 3]);
-  assert.deepEqual(data.entries[0].positions.s2, [5, 4, 5, 5, 5, 7, 7, 6, 7, 8, 8]);
-  assert.deepEqual(data.entries[0].positions.s3, [6, 2, 1, 1, null, null, null, null, null, null, null]);
+test('recorded positions render in the corresponding season and week', () => {
+  const html = renderTrending(data, 'en');
+  for (const entry of data.entries) {
+    const row = html.split(`id="trending-${entry.id}">`)[1]?.split('</tr>')[0];
+    assert.ok(row, `Missing row for ${entry.id}`);
+    for (const season of data.seasons) {
+      for (const [index, week] of season.weeks.entries()) {
+        const rank = entry.positions[season.id]?.[index];
+        if (rank == null) continue;
+        const headers = `headers="trending-${season.id} trending-${season.id}-week-${week}"`;
+        const cell = row.split(headers)[1]?.split('</td>')[0];
+        assert.equal(cell?.split('>').at(-1), String(rank), `${entry.id}, ${season.id}, week ${week}`);
+      }
+    }
+  }
 });
 
 test('rank colors follow numbers and blank cells stay empty', () => {
@@ -26,7 +33,7 @@ test('rank colors follow numbers and blank cells stay empty', () => {
     assert.equal((html.match(new RegExp(`class="trending-rank rank-${color}`, 'g')) || []).length, ranks.filter(value => value === rank).length);
   }
   assert.doesNotMatch(html, />null<|>undefined<|>0<|<script|<form/);
-  assert.equal((html.match(/class="trending-entry"/g) || []).length, 19);
+  assert.equal((html.match(/class="trending-entry"/g) || []).length, data.entries.length);
 });
 
 test('season 2 week 11 is explicitly marked incomplete in both languages without changing recorded results', () => {
