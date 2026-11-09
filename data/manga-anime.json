@@ -2,10 +2,7 @@
   "schemaVersion": 1,
   "source": {
     "workbook": "Ranma ½ Arcs & Anime Adaptation.xlsx",
-    "sheets": [
-      "Adaptation Table",
-      "WIP In Deep"
-    ],
+    "sheets": ["Adaptation Table", "WIP In Deep"],
     "restoredChapterRanges": [
       {
         "cell": "D4",
@@ -28,9 +25,7 @@
         "from": 1,
         "to": 2
       },
-      "importance": [
-        "START"
-      ],
+      "importance": ["START"],
       "anime": {
         "1989": {
           "references": [
@@ -71,9 +66,7 @@
         "from": 3,
         "to": 9
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -114,9 +107,7 @@
         "from": 10,
         "to": 16
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -157,9 +148,7 @@
         "from": 17,
         "to": 22
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -200,9 +189,7 @@
         "from": 23,
         "to": 30
       },
-      "importance": [
-        "Q"
-      ],
+      "importance": ["Q"],
       "anime": {
         "1989": {
           "references": [
@@ -243,9 +230,7 @@
         "from": 31,
         "to": 36
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -286,10 +271,7 @@
         "from": 37,
         "to": 40
       },
-      "importance": [
-        "NC",
-        "NT"
-      ],
+      "importance": ["NC", "NT"],
       "anime": {
         "1989": {
           "references": [
@@ -330,9 +312,7 @@
         "from": 41,
         "to": 43
       },
-      "importance": [
-        "FM"
-      ],
+      "importance": ["FM"],
       "anime": {
         "1989": {
           "references": [
@@ -379,9 +359,7 @@
         "from": 44,
         "to": 45
       },
-      "importance": [
-        "R"
-      ],
+      "importance": ["R"],
       "anime": {
         "1989": {
           "references": [
@@ -422,9 +400,7 @@
         "from": 46,
         "to": 47
       },
-      "importance": [
-        "NT"
-      ],
+      "importance": ["NT"],
       "anime": {
         "1989": {
           "references": [
@@ -465,9 +441,7 @@
         "from": 48,
         "to": 50
       },
-      "importance": [
-        "R"
-      ],
+      "importance": ["R"],
       "anime": {
         "1989": {
           "references": [
@@ -508,10 +482,7 @@
         "from": 51,
         "to": 55
       },
-      "importance": [
-        "FM",
-        "NT"
-      ],
+      "importance": ["FM", "NT"],
       "anime": {
         "1989": {
           "references": [
@@ -640,9 +611,7 @@
         "from": 63,
         "to": 64
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -717,9 +686,7 @@
         "from": 66,
         "to": 66
       },
-      "importance": [
-        "FM"
-      ],
+      "importance": ["FM"],
       "anime": {
         "1989": {
           "references": [
@@ -900,11 +867,18 @@
           "sourceLabel": "34 (*)"
         },
         "2024": {
-          "references": [],
-          "season": null,
+          "references": [
+            {
+              "kind": "episode",
+              "from": 31,
+              "to": 31,
+              "context": "adaptation"
+            }
+          ],
+          "season": 3,
           "prediction": false,
           "hasDifferences": false,
-          "sourceLabel": ""
+          "sourceLabel": "31"
         }
       },
       "sourceRow": 24
@@ -958,9 +932,7 @@
         "from": 85,
         "to": 87
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -1001,9 +973,7 @@
         "from": 88,
         "to": 91
       },
-      "importance": [
-        "FM"
-      ],
+      "importance": ["FM"],
       "anime": {
         "1989": {
           "references": [
@@ -1044,9 +1014,7 @@
         "from": 92,
         "to": 94
       },
-      "importance": [
-        "FM"
-      ],
+      "importance": ["FM"],
       "anime": {
         "1989": {
           "references": [
@@ -1093,9 +1061,7 @@
         "from": 95,
         "to": 99
       },
-      "importance": [
-        "R"
-      ],
+      "importance": ["R"],
       "anime": {
         "1989": {
           "references": [
@@ -1153,11 +1119,18 @@
           "sourceLabel": "45"
         },
         "2024": {
-          "references": [],
+          "references": [
+            {
+              "kind": "episode",
+              "from": 32,
+              "to": 32,
+              "context": "adaptation"
+            }
+          ],
           "season": 3,
           "prediction": false,
           "hasDifferences": false,
-          "sourceLabel": ""
+          "sourceLabel": "32"
         }
       },
       "sourceRow": 30
@@ -1180,11 +1153,18 @@
           "sourceLabel": ""
         },
         "2024": {
-          "references": [],
+          "references": [
+            {
+              "kind": "episode",
+              "from": 33,
+              "to": 33,
+              "context": "adaptation"
+            }
+          ],
           "season": 3,
           "prediction": false,
           "hasDifferences": false,
-          "sourceLabel": ""
+          "sourceLabel": "33"
         }
       },
       "sourceRow": 31
@@ -1197,9 +1177,7 @@
         "from": 106,
         "to": 108
       },
-      "importance": [
-        "NT"
-      ],
+      "importance": ["NT"],
       "anime": {
         "1989": {
           "references": [
@@ -1301,9 +1279,7 @@
         "from": 114,
         "to": 119
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -1354,11 +1330,18 @@
           "sourceLabel": "61"
         },
         "2024": {
-          "references": [],
+          "references": [
+            {
+              "kind": "episode",
+              "from": 34,
+              "to": 34,
+              "context": "adaptation"
+            }
+          ],
           "season": 3,
           "prediction": false,
           "hasDifferences": false,
-          "sourceLabel": ""
+          "sourceLabel": "34-??"
         }
       },
       "sourceRow": 36
@@ -1371,9 +1354,7 @@
         "from": 125,
         "to": 136
       },
-      "importance": [
-        "NT"
-      ],
+      "importance": ["NT"],
       "anime": {
         "1989": {
           "references": [
@@ -2012,9 +1993,7 @@
         "from": 202,
         "to": 207
       },
-      "importance": [
-        "NT"
-      ],
+      "importance": ["NT"],
       "anime": {
         "1989": {
           "references": [
@@ -2252,9 +2231,7 @@
         "from": 225,
         "to": 229
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -2518,9 +2495,7 @@
         "from": 259,
         "to": 264
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [
@@ -2906,9 +2881,7 @@
         "from": 312,
         "to": 314
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [],
@@ -3759,9 +3732,7 @@
         "from": 372,
         "to": 376
       },
-      "importance": [
-        "NC"
-      ],
+      "importance": ["NC"],
       "anime": {
         "1989": {
           "references": [],
@@ -3869,9 +3840,7 @@
         "from": 380,
         "to": 384
       },
-      "importance": [
-        "R"
-      ],
+      "importance": ["R"],
       "anime": {
         "1989": {
           "references": [],
@@ -3898,9 +3867,7 @@
         "from": 385,
         "to": 387
       },
-      "importance": [
-        "R"
-      ],
+      "importance": ["R"],
       "anime": {
         "1989": {
           "references": [],
@@ -3954,9 +3921,7 @@
         "from": 389,
         "to": 407
       },
-      "importance": [
-        "ENDING"
-      ],
+      "importance": ["ENDING"],
       "anime": {
         "1989": {
           "references": [],
