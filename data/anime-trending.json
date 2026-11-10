@@ -95,7 +95,7 @@
       "positions": {
         "s1": [null, null, 21, null, 23, null, null, null, null, null, null],
         "s2": [null, null, 18, null, 17, null, null, null, null, null, null],
-        "s3": [null, null, 10, null, null, null, null, null, null, null, null]
+        "s3": [null, null, null, null, 10, null, null, null, null, null, null]
       },
       "sourceRow": 9
     },
