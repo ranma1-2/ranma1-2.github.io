@@ -8,9 +8,9 @@ edition: Terza Stagione
 
 Il progetto di Ranma ½ (2024) è ambizioso e complicato. Studio MAPPA sta facendo un buon lavoro, ma la buona volontà non basta se il feedback non arriva. Per questo, anche noi dobbiamo fare la nostra parte e dare un contributo. In questa pagina raccolgo tutti i modi in cui si può supportare Ranma ½ sia concretamente, sia per dimostrare il nostro affetto verso la serie.
 
-## Link veloci
+## Link rapidi
 
-Se conoscete già come votare, vi metto qui direttamente i link per farlo:
+Se sapete già come votare, trovate i link rapidi per farlo:
 
 ### Anime Trending
 
