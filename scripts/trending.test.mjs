@@ -69,7 +69,7 @@ test('a new season automatically extends the column groups and every result row'
   assert.match(html, /colspan="11" id="trending-s4">Stagione 4/);
   assert.match(html, /id="trending-s4-week-11"/);
   assert.match(html, /colspan="45" scope="rowgroup"/);
-  assert.equal((html.match(/headers="trending-s4 /g) || []).length, 19 * 11);
+  assert.equal((html.match(/headers="trending-s4 /g) || []).length, extended.entries.length * 11);
 });
 
 test('invalid ranks are rejected and names are escaped', () => {
