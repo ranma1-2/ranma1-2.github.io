@@ -263,7 +263,7 @@
       "positions": {
         "s1": [null, null, 2, 1, 4, 5, 3, 3, 2, 3, 2],
         "s2": [null, null, 1, 1, 1, 4, 2, 4, 3, 4, 4],
-        "s3": [null, null, 1, 1, null, null, null, null, null, null, null]
+        "s3": [null, null, 1, 1, 1, null, null, null, null, null, null]
       },
       "sourceRow": 19
     },
@@ -274,7 +274,7 @@
       "positions": {
         "s1": [null, null, null, null, null, null, null, null, 10, 9, 14],
         "s2": [null, null, 3, 5, 12, 14, 17, 17, null, null, null],
-        "s3": [null, null, 5, 10, null, null, null, null, null, null, null]
+        "s3": [null, null, 5, 10, 9, null, null, null, null, null, null]
       },
       "sourceRow": 20
     },
@@ -285,7 +285,7 @@
       "positions": {
         "s1": [null, null, null, null, 20, 20, null, null, null, 19, null],
         "s2": [null, null, 16, 12, 13, 16, 19, 18, 15, 13, null],
-        "s3": [null, null, 7, 3, null, null, null, null, null, null, null]
+        "s3": [null, null, 7, 3, 3, null, null, null, null, null, null]
       },
       "sourceRow": 21
     },
@@ -377,7 +377,7 @@
           null
         ],
         "s2": [null, null, 19, null, null, null, null, null, null, null, null],
-        "s3": [null, null, null, null, null, null, null, null, null, null, null]
+        "s3": [null, null, null, 25, 14, null, null, null, null, null, null]
       },
       "sourceRow": 25
     }
