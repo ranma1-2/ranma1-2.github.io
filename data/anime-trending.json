@@ -70,19 +70,6 @@
       "category": "boys",
       "name": "Mousse",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s2": [null, null, null, 10, 12, null, null, 16, null, 27, null],
         "s3": [null, null, null, null, null, null, null, null, null, null, null]
       },
@@ -104,32 +91,6 @@
       "category": "boys",
       "name": "Soun Tendo",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "s2": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s3": [null, null, 24, null, null, null, null, null, null, null, null]
       },
       "sourceRow": 10
@@ -172,19 +133,6 @@
       "category": "girls",
       "name": "Ukyo",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s2": [null, null, null, null, null, null, null, 18, 24, 22, null],
         "s3": [null, null, null, 13, null, null, null, null, null, null, null]
       },
@@ -196,19 +144,6 @@
       "name": "Nabiki",
       "positions": {
         "s1": [null, null, 11, 21, null, null, null, null, null, null, null],
-        "s2": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s3": [null, null, null, 28, null, 25, null, null, null, null, null]
       },
       "sourceRow": 16
@@ -218,32 +153,6 @@
       "category": "girls",
       "name": "Kasumi",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "s2": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s3": [null, null, null, 22, 28, null, null, null, null, null, null]
       },
       "sourceRow": 17
@@ -294,19 +203,6 @@
       "category": "ships",
       "name": "Ranma x Ukyo",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s2": [null, null, null, null, null, null, null, 19, null, null, null],
         "s3": [null, null, null, null, null, null, null, null, null, null, null]
       },
@@ -318,19 +214,6 @@
       "name": "Tofu x Kasumi",
       "positions": {
         "s1": [null, null, 17, 15, null, null, null, null, null, null, null],
-        "s2": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s3": [null, null, null, null, null, null, null, null, null, null, null]
       },
       "sourceRow": 23
@@ -340,19 +223,6 @@
       "category": "ships",
       "name": "Tatewaki x Ranma",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s2": [null, null, 18, null, null, null, null, null, null, null, null],
         "s3": [null, null, null, null, null, null, null, null, null, null, null]
       },
@@ -363,19 +233,6 @@
       "category": "ships",
       "name": "Ranma x Kodachi",
       "positions": {
-        "s1": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "s2": [null, null, 19, null, null, null, null, null, null, null, null],
         "s3": [null, null, null, 25, 14, 15, null, null, null, null, null]
       },
