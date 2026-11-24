@@ -31,6 +31,17 @@
     }
   ],
   "categories": ["anime", "boys", "girls", "ships"],
+  "notes": [
+    {
+      "entryId": "boys-mousse",
+      "seasonId": "s3",
+      "week": 7,
+      "text": {
+        "it": "Mousse era inizialmente presente al 9° posto della classifica della settimana 7 della stagione 3, ma è stato successivamente rimosso.",
+        "en": "Mousse was initially listed in 9th place in the ranking for week 7 of season 3, but was subsequently removed."
+      }
+    }
+  ],
   "entries": [
     {
       "id": "anime-ranma",

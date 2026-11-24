@@ -15,9 +15,21 @@ test('recorded positions render in the corresponding season and week', () => {
         if (rank == null) continue;
         const headers = `headers="trending-${season.id} trending-${season.id}-week-${week}"`;
         const cell = row.split(headers)[1]?.split('</td>')[0];
-        assert.equal(cell?.split('>').at(-1), String(rank), `${entry.id}, ${season.id}, week ${week}`);
+        assert.equal(cell?.split('<sup>')[0].split('>').at(-1), String(rank), `${entry.id}, ${season.id}, week ${week}`);
       }
     }
+  }
+});
+
+test('Mousse keeps his original rank with a linked, translated removal note only in S3 week 7', () => {
+  assert.equal(data.entries.find(entry => entry.id === 'boys-mousse').positions.s3[6], 9);
+  for (const [lang, phrase] of [['it', 'successivamente rimosso'], ['en', 'subsequently removed']]) {
+    const html = renderTrending(data, lang);
+    const row = html.split('id="trending-boys-mousse">')[1].split('</tr>')[0];
+    assert.match(row, /headers="trending-s3 trending-s3-week-7" aria-describedby="trending-result-note-1">9<sup><a href="#trending-result-note-1"/);
+    assert.equal((row.match(/<sup>/g) || []).length, 1);
+    assert.ok(html.includes(phrase));
+    assert.match(html, /id="trending-result-note-1"><sup>1<\/sup>/);
   }
 });
 

@@ -65,6 +65,10 @@ export function renderTrending(data, lang) {
   const noteId = (season, week) => `trending-${season.id}-week-${week}-note`;
   const noteText = (season, week) => t.incomplete.replace('{week}', week).replace('{season}', season.number);
   const notes = data.seasons.flatMap(season => (season.incompleteWeeks || []).map(week => `<p class="trending-note" id="${escape(noteId(season, week))}"><strong>* ${escape(noteText(season, week))}</strong></p>`)).join('');
+  const resultNotes = data.notes || [];
+  const resultNoteId = index => `trending-result-note-${index + 1}`;
+  const resultNoteText = note => note.text[lang] || note.text.en;
+  const footnotes = resultNotes.map((note, index) => `<p class="trending-note" id="${resultNoteId(index)}"><sup>${index + 1}</sup> ${escape(resultNoteText(note))}</p>`).join('');
   const seasonHeader = data.seasons.map(season => `<th scope="colgroup" colspan="${season.weeks.length}" id="trending-${escape(season.id)}">${t.season} ${season.number}</th>`).join('');
   const weekHeader = data.seasons.map(season => season.weeks.map(week => {
     const incomplete = (season.incompleteWeeks || []).includes(week);
@@ -72,15 +76,18 @@ export function renderTrending(data, lang) {
   }).join('')).join('');
   const rows = data.categories.map(category => `<tbody><tr class="trending-category category-${escape(category)}"><th colspan="${columns}" scope="rowgroup"><span class="trending-category-label">${escape(t.categories[category] || category)}</span></th></tr>${data.entries.filter(entry => entry.category === category).map(entry => `<tr class="trending-entry" id="trending-${escape(entry.id)}"><th scope="row">${escape(entry.name)}</th>${data.seasons.map(season => season.weeks.map((week, index) => {
     const rank = entry.positions[season.id]?.[index] ?? null;
+    const matchingNotes = resultNotes.flatMap((note, noteIndex) => note.entryId === entry.id && note.seasonId === season.id && note.week === week ? [noteIndex] : []);
+    const references = matchingNotes.map(noteIndex => `<sup><a href="#${resultNoteId(noteIndex)}" title="${escape(resultNoteText(resultNotes[noteIndex]))}">${noteIndex + 1}</a></sup>`).join('');
     const incomplete = (season.incompleteWeeks || []).includes(week);
     const firstWeek = data.categoryStartWeeks?.[category] ?? 1;
     if (week < firstWeek) {
       const description = t.notScheduled.replace('{week}', firstWeek);
       return `<td class="trending-rank rank-unavailable${index === 0 ? ' season-start' : ''}" headers="trending-${escape(season.id)} trending-${escape(season.id)}-week-${week}" title="${escape(description)}"><span class="sr-only">${escape(description)}</span></td>`;
     }
-    return `<td class="trending-rank${rankClass(rank)}${index === 0 ? ' season-start' : ''}${incomplete ? ' incomplete-week' : ''}" headers="trending-${escape(season.id)} trending-${escape(season.id)}-week-${week}"${incomplete ? ` aria-describedby="${escape(noteId(season, week))}"` : ''}>${rank ?? ''}</td>`;
+    const descriptions = [...(incomplete ? [noteId(season, week)] : []), ...matchingNotes.map(resultNoteId)];
+    return `<td class="trending-rank${rankClass(rank)}${index === 0 ? ' season-start' : ''}${incomplete ? ' incomplete-week' : ''}" headers="trending-${escape(season.id)} trending-${escape(season.id)}-week-${week}"${descriptions.length ? ` aria-describedby="${escape(descriptions.join(' '))}"` : ''}>${rank ?? ''}${references}</td>`;
   }).join('')).join('')}</tr>`).join('')}</tbody>`).join('');
-  return `<section class="trending-section" aria-label="${escape(t.title)}">${notes}<p class="trending-legend">${t.legend} ${t.unavailable}</p><p class="trending-scroll-hint">${t.scroll}</p><div class="trending-table-wrap" role="region" aria-label="${escape(t.title)}" tabindex="0"><table class="trending-table"><caption class="sr-only">${escape(t.description)}</caption><thead><tr><th rowspan="2" scope="col" class="entry-heading">${t.entry}</th>${seasonHeader}</tr><tr>${weekHeader}</tr></thead>${rows}</table></div></section>`;
+  return `<section class="trending-section" aria-label="${escape(t.title)}">${notes}<p class="trending-legend">${t.legend} ${t.unavailable}</p><p class="trending-scroll-hint">${t.scroll}</p><div class="trending-table-wrap" role="region" aria-label="${escape(t.title)}" tabindex="0"><table class="trending-table"><caption class="sr-only">${escape(t.description)}</caption><thead><tr><th rowspan="2" scope="col" class="entry-heading">${t.entry}</th>${seasonHeader}</tr><tr>${weekHeader}</tr></thead>${rows}</table></div>${footnotes}</section>`;
 }
 
 export function trendingCard(lang) {
