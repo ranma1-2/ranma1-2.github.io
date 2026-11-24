@@ -50,7 +50,7 @@
       "positions": {
         "s1": [null, null, 3, 1, 3, 5, 6, 3, 2, 2, 1],
         "s2": [null, null, 4, 3, 6, 6, 4, 5, 8, 9, 6],
-        "s3": [null, null, 1, 1, 1, 1, null, null, null, null, null]
+        "s3": [null, null, 1, 1, 1, 1, 1, null, null, null, null]
       },
       "sourceRow": 6
     },
@@ -61,7 +61,7 @@
       "positions": {
         "s1": [null, null, null, null, 7, 8, 8, 10, 12, 11, 13],
         "s2": [null, null, 6, null, null, 10, 10, 12, 15, 11, null],
-        "s3": [null, null, 3, 2, 2, 2, null, null, null, null, null]
+        "s3": [null, null, 3, 2, 2, 2, 2, null, null, null, null]
       },
       "sourceRow": 7
     },
@@ -71,7 +71,7 @@
       "name": "Mousse",
       "positions": {
         "s2": [null, null, null, 10, 12, null, null, 16, null, 27, null],
-        "s3": [null, null, null, null, null, null, null, null, null, null, null]
+        "s3": [null, null, null, null, null, null, 9, null, null, null, null]
       },
       "sourceRow": 8
     },
@@ -82,7 +82,7 @@
       "positions": {
         "s1": [null, null, 21, null, 23, null, null, null, null, null, null],
         "s2": [null, null, 18, null, 17, null, null, null, null, null, null],
-        "s3": [null, null, null, null, 10, 11, null, null, null, null, null]
+        "s3": [null, null, null, null, 10, 11, 11, null, null, null, null]
       },
       "sourceRow": 9
     },
@@ -91,9 +91,57 @@
       "category": "boys",
       "name": "Soun Tendo",
       "positions": {
-        "s3": [null, null, 24, null, null, null, null, null, null, null, null]
+        "s3": [null, null, 24, null, null, null, 59, null, null, null, null]
       },
       "sourceRow": 10
+    },
+    {
+      "id": "boys-happosai",
+      "category": "boys",
+      "name": "Happosai",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 59, null, null, null, null]
+      }
+    },
+    {
+      "id": "boys-tofu-ono",
+      "category": "boys",
+      "name": "Tofu Ono",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 77, null, null, null, null]
+      }
+    },
+    {
+      "id": "boys-sentaro-daimonji",
+      "category": "boys",
+      "name": "Sentaro Daimonji",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 132, null, null, null, null]
+      }
+    },
+    {
+      "id": "boys-hikaru-gosunkugi",
+      "category": "boys",
+      "name": "Hikaru Gosunkugi",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 132, null, null, null, null]
+      }
+    },
+    {
+      "id": "boys-ichiro",
+      "category": "boys",
+      "name": "Ichiro",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 132, null, null, null, null]
+      }
+    },
+    {
+      "id": "boys-mikado-sanzenin",
+      "category": "boys",
+      "name": "Mikado Sanzenin",
+      "positions": {
+        "s3": [null, null, null, null, null, null, 132, null, null, null, null]
+      }
     },
     {
       "id": "girls-akane-tendo",
