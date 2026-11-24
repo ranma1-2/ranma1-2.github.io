@@ -46,27 +46,21 @@ Il portale internazionale di Anime Trending crea sondaggi periodici sugli anime 
 
 ### Come si vota?
 
-Aprite il link del sondaggio, che dovrebbe già portarvi in alto le opzioni relative a Ranma ½. Cliccate quindi sull'opzione che intendete votare, vi comparirà un pallino arancione:
+Aprite il link del sondaggio e scrivere "ranma" nella barra di ricerca. Cliccate quindi sull'opzione che intendete votare e si colorerà di arancione:
 
-![Esempio di voto della terza stagione](/images/anitrendz-1.png)
+![Esempio di voto della terza stagione](/images/anitrendz-new-1.png)
 
-Cliccate sul pulsante "NEXT" in alto. Vi chiederà qualche dato anagrafico, solo a fini statistici. Scegliete un genere (sex) e l'età (age) e poi cliccate "SUBMIT VOTE".
+Scendendo, vi chiederà qualche dato anagrafico, solo a fini statistici. Scegliete un genere (sex) e l'età (age) e poi cliccate "SUBMIT".
 
-![Dati anagrafici](/images/anitrendz-2.png)
+![Dati anagrafici](/images/anitrendz-new-2.png)
 
-Vi comparirà una schermata di riepilogo. **Il voto sarà confermato una volta che avrete cliccato il tasto SUBMIT in basso**!
-
-![Conferma di voto](/images/anitrendz-3.png)
-
-Se tutto è andato bene, troverete la scritta in alto:
-
-![Voto confermato](/images/anitrendz-4.png)
+Se tutto è andato bene, vi comparirà un messaggio di conferma.
 
 ### Nota per i personaggi e le coppie/ship
 
 Il procedimento è uguale, ma per ogni singolo anime potete scegliere fino a tre personaggi maschili, tre personaggi femminili e cinque coppie/ship nei rispettivi sondaggi. **Cercate di usare tutti i voti a disposizione per Ranma ½!** Ci sono tanti personaggi e coppie della serie che potete scegliere: votate chi apprezzate di più, ma cercate di non limitarvi a un singolo voto.
 
-Per i personaggi c'è un piccolo ma semplice step in più: una volta scelti quelli maschili e cliccato NEXT, vi farà scegliere quelli femminili; scegliete e poi cliccate di nuovo su NEXT. Per il resto, le procedure sono identiche.
+Per i personaggi, troverete i personaggi femminili subito sotto quelli maschili. Per il resto, le procedure sono identiche.
 
 ### Lo staff lo sa
 

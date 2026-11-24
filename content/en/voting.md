@@ -46,27 +46,21 @@ Anime Trending is an international website that runs regular polls about current
 
 ### How do you vote?
 
-Open the poll link, which should already bring the Ranma ½ options to the top. Click the option you want to vote for; an orange dot will appear:
+Open the poll link and type "ranma" in the search bar. Click the option you want to vote for, and it will turn orange:
 
-![Example of voting for season three](/images/anitrendz-1.png)
+![Example of voting for season three](/images/anitrendz-new-1.png)
 
-Click the "NEXT" button at the top. You will be asked for some demographic information, for statistical purposes only. Select your sex and age, then click "SUBMIT VOTE".
+Scroll down to enter some demographic information, for statistical purposes only. Select your sex and age, then click "SUBMIT".
 
-![Demographic information](/images/anitrendz-2.png)
+![Demographic information](/images/anitrendz-new-2.png)
 
-A summary screen will appear. **Your vote will only be confirmed once you click the SUBMIT button at the bottom**!
-
-![Final vote submission](/images/anitrendz-3.png)
-
-If everything went well, you will see this message at the top:
-
-![Vote confirmed](/images/anitrendz-4.png)
+If everything went well, a confirmation message will appear.
 
 ### A note on characters and couples/ships
 
 The process is the same, but for each individual anime you can choose up to three male characters, three female characters and five couples/ships in their respective polls. **Try to use all your available votes for Ranma ½!** There are plenty of characters and couples from the series to choose from: vote for your favorites, but try not to limit yourself to a single vote.
 
-There is one extra, simple step for characters: after selecting the male characters and clicking NEXT, you will be asked to select the female characters. Make your choices, then click NEXT again. The rest of the process is identical.
+In the character poll, you will find the female characters directly below the male characters. The rest of the process is identical.
 
 ### The staff are paying attention
 
