@@ -40,6 +40,15 @@
         "it": "Mousse era inizialmente presente al 9° posto della classifica della settimana 7 della stagione 3, ma è stato successivamente rimosso.",
         "en": "Mousse was initially listed in 9th place in the ranking for week 7 of season 3, but was subsequently removed."
       }
+    },
+    {
+      "entryIds": ["boys-soun-tendo", "boys-happosai", "boys-tofu-ono", "boys-sentaro-daimonji", "boys-hikaru-gosunkugi", "boys-ichiro", "boys-mikado-sanzenin"],
+      "seasonId": "s3",
+      "week": 7,
+      "text": {
+        "it": "Nella settimana 7 della stagione 3, Anime Trending aveva inizialmente mostrato la classifica completa, poi nuovamente nascosta. Le posizioni di Soun Tendo, Happosai, Tofu Ono, Sentaro Daimonji, Hikaru Gosunkugi, Ichiro e Mikado Sanzenin sono state registrate quando era visibile.",
+        "en": "In week 7 of season 3, Anime Trending initially displayed the full ranking, then hid it again. The positions of Soun Tendo, Happosai, Tofu Ono, Sentaro Daimonji, Hikaru Gosunkugi, Ichiro and Mikado Sanzenin were recorded while it was visible."
+      }
     }
   ],
   "entries": [

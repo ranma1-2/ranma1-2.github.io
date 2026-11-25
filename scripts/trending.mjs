@@ -76,7 +76,7 @@ export function renderTrending(data, lang) {
   }).join('')).join('');
   const rows = data.categories.map(category => `<tbody><tr class="trending-category category-${escape(category)}"><th colspan="${columns}" scope="rowgroup"><span class="trending-category-label">${escape(t.categories[category] || category)}</span></th></tr>${data.entries.filter(entry => entry.category === category).map(entry => `<tr class="trending-entry" id="trending-${escape(entry.id)}"><th scope="row">${escape(entry.name)}</th>${data.seasons.map(season => season.weeks.map((week, index) => {
     const rank = entry.positions[season.id]?.[index] ?? null;
-    const matchingNotes = resultNotes.flatMap((note, noteIndex) => note.entryId === entry.id && note.seasonId === season.id && note.week === week ? [noteIndex] : []);
+    const matchingNotes = resultNotes.flatMap((note, noteIndex) => (note.entryIds || [note.entryId]).includes(entry.id) && note.seasonId === season.id && note.week === week ? [noteIndex] : []);
     const references = matchingNotes.map(noteIndex => `<sup><a href="#${resultNoteId(noteIndex)}" title="${escape(resultNoteText(resultNotes[noteIndex]))}">${noteIndex + 1}</a></sup>`).join('');
     const incomplete = (season.incompleteWeeks || []).includes(week);
     const firstWeek = data.categoryStartWeeks?.[category] ?? 1;

@@ -33,6 +33,19 @@ test('Mousse keeps his original rank with a linked, translated removal note only
   }
 });
 
+test('the full ranking note is shared only by the seven lower-ranked boys in S3 week 7', () => {
+  const affected = ['boys-soun-tendo', 'boys-happosai', 'boys-tofu-ono', 'boys-sentaro-daimonji', 'boys-hikaru-gosunkugi', 'boys-ichiro', 'boys-mikado-sanzenin'];
+  for (const [lang, phrase] of [['it', 'poi nuovamente nascosta'], ['en', 'then hid it again']]) {
+    const html = renderTrending(data, lang);
+    assert.ok(html.includes(phrase));
+    assert.equal((html.match(/href="#trending-result-note-2"/g) || []).length, affected.length);
+    for (const id of affected) {
+      const row = html.split(`id="trending-${id}">`)[1].split('</tr>')[0];
+      assert.match(row, /headers="trending-s3 trending-s3-week-7" aria-describedby="trending-result-note-2">\d+<sup><a href="#trending-result-note-2"/);
+    }
+  }
+});
+
 test('rank colors follow numbers and blank cells stay empty', () => {
   assert.equal(rankClass(1), ' rank-gold');
   assert.equal(rankClass(2), ' rank-silver');
