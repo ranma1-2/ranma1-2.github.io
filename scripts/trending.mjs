@@ -4,6 +4,7 @@ const escape = value => String(value).replace(/[&<>"']/g, c => ({ '&': '&amp;', 
 const messages = {
   it: {
     title: 'Anime Trending: storico dei risultati',
+    updated: 'Ultimo aggiornamento',
     description: 'Le posizioni settimanali di Ranma ½, dei personaggi e delle coppie nei sondaggi di Anime Trending.',
     category: 'SONDAGGI', open: 'Apri lo storico', season: 'Stagione', week: 'Settimana', entry: 'Voce', legend: '1° oro · 2° argento · 3° bronzo. Le celle vuote indicano dati non presenti nel file.',
     incomplete: 'I dati della settimana {week} della stagione {season} potrebbero essere incompleti: all’epoca non furono registrati tutti i risultati.',
@@ -14,6 +15,7 @@ const messages = {
   },
   en: {
     title: 'Anime Trending: results archive',
+    updated: 'Last updated',
     description: 'Weekly rankings for Ranma ½, its characters and couples in the Anime Trending polls.',
     category: 'POLLS', open: 'Open the archive', season: 'Season', week: 'Week', entry: 'Entry', legend: '1st gold · 2nd silver · 3rd bronze. Blank cells indicate data not present in the file.',
     incomplete: 'Data for week {week} of season {season} may be incomplete: not all results were recorded at the time.',
@@ -25,6 +27,10 @@ const messages = {
 };
 
 export function validateTrending(data) {
+  if (data.updated !== undefined) {
+    const date = new Date(`${data.updated}T00:00:00Z`);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(data.updated) || Number.isNaN(date.getTime()) || date.toISOString().slice(0, 10) !== data.updated) throw new Error('Invalid updated date: use YYYY-MM-DD');
+  }
   for (const [category, start] of Object.entries(data.categoryStartWeeks || {})) {
     if (!data.categories.includes(category) || !Number.isInteger(start) || start < 1) throw new Error(`Invalid category start week: ${category}`);
   }
@@ -61,6 +67,7 @@ export function rankClass(rank) {
 
 export function renderTrending(data, lang) {
   const t = messages[lang] || messages.en;
+  const updated = data.updated ? `<p class="trending-legend">${escape(t.updated)}: <time datetime="${escape(data.updated)}">${escape(new Intl.DateTimeFormat(messages[lang] ? lang : 'en', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${data.updated}T00:00:00Z`)))}</time></p>` : '';
   const columns = data.seasons.reduce((total, season) => total + season.weeks.length, 1);
   const noteId = (season, week) => `trending-${season.id}-week-${week}-note`;
   const noteText = (season, week) => t.incomplete.replace('{week}', week).replace('{season}', season.number);
@@ -87,7 +94,7 @@ export function renderTrending(data, lang) {
     const descriptions = [...(incomplete ? [noteId(season, week)] : []), ...matchingNotes.map(resultNoteId)];
     return `<td class="trending-rank${rankClass(rank)}${index === 0 ? ' season-start' : ''}${incomplete ? ' incomplete-week' : ''}" headers="trending-${escape(season.id)} trending-${escape(season.id)}-week-${week}"${descriptions.length ? ` aria-describedby="${escape(descriptions.join(' '))}"` : ''}>${rank ?? ''}${references}</td>`;
   }).join('')).join('')}</tr>`).join('')}</tbody>`).join('');
-  return `<section class="trending-section" aria-label="${escape(t.title)}">${notes}<p class="trending-legend">${t.legend} ${t.unavailable}</p><p class="trending-scroll-hint">${t.scroll}</p><div class="trending-table-wrap" role="region" aria-label="${escape(t.title)}" tabindex="0"><table class="trending-table"><caption class="sr-only">${escape(t.description)}</caption><thead><tr><th rowspan="2" scope="col" class="entry-heading">${t.entry}</th>${seasonHeader}</tr><tr>${weekHeader}</tr></thead>${rows}</table></div>${footnotes}</section>`;
+  return `<section class="trending-section" aria-label="${escape(t.title)}">${updated}${notes}<p class="trending-legend">${t.legend} ${t.unavailable}</p><p class="trending-scroll-hint">${t.scroll}</p><div class="trending-table-wrap" role="region" aria-label="${escape(t.title)}" tabindex="0"><table class="trending-table"><caption class="sr-only">${escape(t.description)}</caption><thead><tr><th rowspan="2" scope="col" class="entry-heading">${t.entry}</th>${seasonHeader}</tr><tr>${weekHeader}</tr></thead>${rows}</table></div>${footnotes}</section>`;
 }
 
 export function trendingCard(lang) {

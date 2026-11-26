@@ -4,6 +4,17 @@ import { loadTrending, renderTrending, rankClass, validateTrending } from './tre
 
 const data = await loadTrending(new URL('../', import.meta.url));
 
+test('the JSON update date is localized and invalid calendar dates are rejected', () => {
+  const changed = structuredClone(data);
+  changed.updated = '2026-11-25';
+  assert.match(renderTrending(changed, 'it'), /Ultimo aggiornamento: <time datetime="2026-11-25">25 novembre 2026<\/time>/);
+  assert.match(renderTrending(changed, 'en'), /Last updated: <time datetime="2026-11-25">November 25, 2026<\/time>/);
+  for (const date of ['2026-02-30', '25/11/2026', 'invalid']) {
+    changed.updated = date;
+    assert.throws(() => validateTrending(changed), /Invalid updated date/);
+  }
+});
+
 test('recorded positions render in the corresponding season and week', () => {
   const html = renderTrending(data, 'en');
   for (const entry of data.entries) {

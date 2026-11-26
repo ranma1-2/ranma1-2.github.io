@@ -118,6 +118,10 @@ shows the main comparison.
 
 ### Anime Trending results
 
+Whenever you change `data/anime-trending.json`, update its top-level `updated`
+field to the date of the change in `YYYY-MM-DD` format. This date is displayed
+above the table in each language; it is maintained manually, not set during builds.
+
 Each season defines its `weeks`; each entry's `positions` array follows that
 order. Use positive integers for recorded ranks and `null` for missing values.
 Positions 1, 2 and 3 automatically receive gold, silver and bronze backgrounds.
